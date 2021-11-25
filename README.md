@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-
 ![Profile views](https://gpvc.arturio.dev/alviancode)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alviancode&count_private=true&theme=tokyonight&showicons=true)
-
-![GitHub metrics](https://metrics.lecoq.io/alviancode)
-
 
 <!--
 **alviancode/alviancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
